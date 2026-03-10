@@ -61,7 +61,7 @@ jobs:
       - name: SonarCloud Scan
         uses: SonarSource/sonarqube-scan-action@v5 # This works for both Cloud and Server
         env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          SONAR_TOKEN: ${{ secrets.TOKEN }}
         with:
           args: >
             -Dsonar.projectKey=Dhruv-Omnenest_jest-app
