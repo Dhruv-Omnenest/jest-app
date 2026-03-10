@@ -66,8 +66,8 @@ jobs:
           SONAR_HOST_URL: https://potential-chainsaw-wr6jgw4vp75g2gg67-9000.app.github.dev
         with:
           args: >
-            -Dsonar.projectKey=asfasdfasfa
-            -Dsonar.projectName=asfasdfasfa
+            -Dsonar.projectKey=jest-sonarcube
+            -Dsonar.projectName=jest-sonarcube
             -Dsonar.sources=src
             -Dsonar.tests=src
             -Dsonar.inclusions=src/**/*.ts,src/**/*.tsx
