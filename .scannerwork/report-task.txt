@@ -1,6 +1,6 @@
 projectKey=jest-sonarcube
 serverUrl=https://potential-chainsaw-wr6jgw4vp75g2gg67-9000.app.github.dev
-serverVersion=10.7.0.96327
+serverVersion=26.3.0.120487
 dashboardUrl=https://potential-chainsaw-wr6jgw4vp75g2gg67-9000.app.github.dev/dashboard?id=jest-sonarcube
-ceTaskId=e1829bc2-6eb5-44f1-a16c-8316d9acd112
-ceTaskUrl=https://potential-chainsaw-wr6jgw4vp75g2gg67-9000.app.github.dev/api/ce/task?id=e1829bc2-6eb5-44f1-a16c-8316d9acd112
+ceTaskId=ec09d948-3bd7-4fe4-90b1-3ece254835b3
+ceTaskUrl=https://potential-chainsaw-wr6jgw4vp75g2gg67-9000.app.github.dev/api/ce/task?id=ec09d948-3bd7-4fe4-90b1-3ece254835b3
